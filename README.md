@@ -18,13 +18,13 @@ It calculates key numerology numbers (Life Path, Destiny, Soul Urge, Personal Ye
 ---
 
 ## 📂 Project Structure
-Nymerology_Project/
+"""Nymerology_Project/
 │── calculations.py # Numerology logic (all number calculations)
 │── chart.py # Chart visualization with Matplotlib
 │── ui.py # User interface (CustomTkinter)
 │── main.py # Entry point of the project
 │── requirements.txt # Dependencies
-│── README.md # Project description
+│── README.md # Project description"""
 
 ## 🚀 Installation & Usage
 
